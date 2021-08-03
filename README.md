@@ -32,7 +32,7 @@ Responds with the following JSON:
 ]
 ```
 
-![alt text](https://raw.githubusercontent.com/main/rest-server/img/1_getAllTodos.PNG)
+![alt text](https://raw.githubusercontent.com/edibertoo/examen2/master/img/1_getAllTodos.PNG)
 
 # Get one ToDo
 
