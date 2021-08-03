@@ -106,7 +106,7 @@ Responds with the following JSON:
 }
 ```
 
-![alt text](https://raw.githubusercontent.com/edibertoo/examen2/master/img/4_updateTodo.PNG)
+![alt text](https://raw.githubusercontent.com/edibertoo/examen2/master/img/5_deleteTodo.PNG)
 
 # Delete all ToDos
 
