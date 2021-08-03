@@ -48,7 +48,7 @@ Responds with the following JSON:
 }
 ```
 
-![alt text](https://raw.githubusercontent.com/main/rest-server/img/2_getOneTodo.PNG)
+![alt text](https://raw.githubusercontent.com/edibertoo/examen2/master/img/2_getOneTodo.PNG)
 
 # Create ToDo
 
@@ -70,7 +70,7 @@ Responds with the following JSON:
 }
 ```
 
-![alt text](https://raw.githubusercontent.com/main/rest-server/img/3_postCreateTodo.PNG)
+![alt text](https://raw.githubusercontent.com/edibertoo/examen2/master/img/3_postCreateTodo.PNG)
 
 # Update ToDo
 
@@ -92,7 +92,7 @@ Responds with the following JSON:
 }
 ```
 
-![alt text](https://raw.githubusercontent.com/main/rest-server/img/4_updateTodo.PNG)
+![alt text](https://raw.githubusercontent.com/edibertoo/examen2/master/img/4_updateTodo.PNG)
 
 # Delete one ToDo
 
@@ -106,7 +106,7 @@ Responds with the following JSON:
 }
 ```
 
-![alt text](https://raw.githubusercontent.com/main/rest-server/img/5_deleteTodo.png)
+![alt text](https://raw.githubusercontent.com/edibertoo/examen2/master/img/4_updateTodo.PNG)
 
 # Delete all ToDos
 
@@ -120,4 +120,4 @@ Responds with the following JSON:
 }
 ```
 
-![alt text](https://raw.githubusercontent.com/main/rest-server/img/6_deleteAllTodos.PNG)
+![alt text](https://raw.githubusercontent.com/edibertoo/examen2/master/img/6_deleteAllTodos.PNG)
